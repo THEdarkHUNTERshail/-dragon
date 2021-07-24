@@ -1,8 +1,8 @@
 <h1 align="center">
-<b> LEGEND 𝐔𝐒𝐄𝐑𝐁𝐎𝐓 🇮🇳</b>
+<b>    SHAIL🐲  𝐔𝐒𝐄𝐑𝐁𝐎𝐓 🇮🇳</b>
 </h1>
 
-[![LEGENDBOT](https://telegra.ph/file/fb2860bd9972e2e0be1cc.jpg)](https://github.com/LEGEND-OS/LEGENDUSERBOT)
+[![ SHAIL🐲 BOT](https://telegra.ph/file/fb2860bd9972e2e0be1cc.jpg)](https://github.com/LEGEND-OS/LEGENDUSERBOT)
 
 
 <p align="center">
@@ -135,6 +135,6 @@ along with this program. If not, see <https://www.gnu.org/licenses/>.
 
 <details>
 
-  <summary> • 💡 CREDITS 💞 • </summary>
+  
   
 • [LEGEND](https://github.com/LEGEND-OS)
