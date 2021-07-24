@@ -2,7 +2,7 @@
 <b>    SHAIL🐲  𝐔𝐒𝐄𝐑𝐁𝐎𝐓 🇮🇳</b>
 </h1>
 
-[![ SHAIL🐲 BOT](https://telegra.ph/file/fb2860bd9972e2e0be1cc.jpg)](https://github.com/LEGEND-OS/LEGENDUSERBOT)
+[![ SHAIL🐲 BOT](https://telegra.ph/file/000b419ff41208fe63e2e.jpg)](https://github.com/LEGEND-OS/LEGENDUSERBOT)
 
 
 <p align="center">
@@ -33,7 +33,7 @@
 </p>
 
 
-<h2>THIS IS IS A USERBOT OF TELEGRAM. MADE BY @Legend_Mr_Hacker By Hardwork.
+<h2>THIS IS IS A USERBOT OF TELEGRAM. MADE BY SHAIL🐲   By Hardwork.
 
 ### This is the one and only official LEGENDBOT Userbot made by Legend_Mr_Hacker. Don't forget to star this repo if you liked it. Enjoy Your Bot!!💝</h2>
 
@@ -51,13 +51,13 @@ FORK AT YOUR OWN RISK</h2>
 
 
 
-<h2 align="center">⚙️ D E P L O Y I N G ⚙️</h2>
+<h2 align="center">⚙️🦁 D E P L O Y I N G 🦁⚙️</h2>
 
 
 <h3> DEPLOY TO HEROKU </h3>
 
 
-[![Deploy](https://telegra.ph/file/533e92bd3d2e94e959c36.jpg)](https://heroku.com/deploy?template=https://github.com/LEGEND-OS/LEGENDBOT)
+[![Deploy] (https://telegra.ph/file/000b419ff41208fe63e2e.jpg)](https://heroku.com/deploy?template=https://github.com/LEGEND-OS/LEGENDBOT)
 
 <a href="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FLEGEND-OS%2FLEGENDBOT&template=https%3A%2F%2Fgithub.com%2FLEGEND-OS%2FLEGENDBOT" rel="nofollow" style="background-color: initial; box-sizing: border-box; color: #0366d6; text-decoration-line: none;"><img alt="Deploy" data-canonical-src="https://www.herokucdn.com/deploy/button.svg" src="https://camo.githubusercontent.com/83b0e95b38892b49184e07ad572c94c8038323fb/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e737667" style="border-style: none; box-sizing: initial; max-width: 100%;" /></a></div>
 </a>
@@ -87,8 +87,8 @@ FORK AT YOUR OWN RISK</h2>
 
 <h1 align="center">TO HOST LEGEND LOCALLY OR ON ANY OTHER VPS CLICK BELOW</h1>
 
-<h2 align="center"> <a href="https://github.com/LEGEND-OS/LEGENDUSERBOT">⚡ LEGEND ⚡</a></h2>
-
+<h2 align="center"> <a href="https://github.com/LEGEND-OS/LEGENDUSERBOT">⚡ SHAIL🐲 ⚡</a></h2>
+<h3 align="center"> THIS BOT IS ADE BY SHAIL</h3>
 
 # Do U Face Any Problem Contact me Through Telegram Or Whatsapp
 
