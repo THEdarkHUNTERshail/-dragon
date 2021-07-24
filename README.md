@@ -87,7 +87,7 @@ FORK AT YOUR OWN RISK</h2>
 
 <h1 align="center">TO HOST LEGEND LOCALLY OR ON ANY OTHER VPS CLICK BELOW</h1>
 
-<h2 align="center"> <a href="https://github.com/LEGEND-OS/LEGENDUSERBOT">⚡ SHAIL🐲 ⚡</a></h2>
+
 <h3 align="center"> THIS BOT IS ADE BY SHAIL</h3>
 
 # Do U Face Any Problem Contact me Through Telegram Or Whatsapp
