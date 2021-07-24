@@ -7,7 +7,7 @@ from colorama import Fore, Style, Back
 aura = """
 ╔╗──╔═══╦═══╦═══╦═╗─╔╦═══╦═══╦═══╦╗──╔╗
 ║║──║╔══╣╔═╗║╔══╣║╚╗║╠╗╔╗║╔═╗║╔═╗║╚╗╔╝║  
-║║──║╚══╣║─╚╣╚══╣╔╗╚╝║║║║║║─║║╚═╝╠╗╚╝╔╝  
+                 🐲SHAIL🐲
 ║║─╔╣╔══╣║╔═╣╔══╣║╚╗║║║║║║╚═╝║╔╗╔╝╚╗╔╝   
 ║╚═╝║╚══╣╚╩═║╚══╣║─║║╠╝╚╝║╔═╗║║║╚╗─║║   
 ╚═══╩═══╩═══╩═══╩╝─╚═╩═══╩╝─╚╩╝╚═╝─╚╝   
@@ -16,8 +16,8 @@ logo = """
 
 """
 bhai_bolte = """
-#Legendary LEGENDBOT          
-Made With Love By Team LEGENDBOT
+#Legendary   SHAIL🐲       
+Made With Love By Team SHAIL🐲
 """
                                                                                                             
 print("")
@@ -45,7 +45,7 @@ while True:
             )
 
             print(
-                "Thanks for Choosing LEGENDBOT Have A Good Time....Note That When You Terminate the Old Session ComeBack And Genrate A New String Session Old One Wont Work"
+                "Thanks for Choosing   SHAIL🐲 BOT Have A Good Time....Note That When You Terminate the Old Session ComeBack And Genrate A New String Session Old One Wont Work"
             )
     except:
         print("")
