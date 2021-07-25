@@ -77,7 +77,7 @@ FORK AT YOUR OWN RISK</h2>
 
 ### StringSession
 
-[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@KrishnaJaiswal1/LEGENDBOT#main.py) 
+[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/THEdarkHUNTERshail/-dragon#main.py) 
 
     - Click On Generate String
     - Then Click On Green Run Button.
