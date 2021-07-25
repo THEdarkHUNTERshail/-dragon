@@ -1,8 +1,8 @@
 <h1 align="center">
-<b>    SHAIL🐲  𝐔𝐒𝐄𝐑𝐁𝐎𝐓 🇮🇳</b>
+<b>    DRAGON🐲  𝐔𝐒𝐄𝐑𝐁𝐎𝐓 🇮🇳</b>
 </h1>
 
-[![ SHAIL🐲 BOT](https://telegra.ph/file/000b419ff41208fe63e2e.jpg)](https://github.com/LEGEND-OS/LEGENDUSERBOT)
+[![ THE LITTLE DRAGON🐲 BOT](https://telegra.ph/file/000b419ff41208fe63e2e.jpg)](https://github.com/LEGEND-OS/LEGENDUSERBOT)
 
 
 <p align="center">
@@ -33,25 +33,25 @@
 </p>
 
 
-<h2>THIS IS IS A USERBOT OF TELEGRAM. MADE BY SHAIL🐲   By Hardwork.
+<h2>THIS IS IS A 🦖USERBOT OF TELEGRAM. MADE BY SHAIL🐲   By Hardwork.
 
-### This is the one and only official LEGENDBOT Userbot made by Legend_Mr_Hacker. Don't forget to star this repo if you liked it. Enjoy Your Bot!!💝</h2>
+### This is the one and only official 🐲DRAGONBOT🐲 Userbot made by Legend_Mr_Hacker. Don't forget to star this repo if you liked it. Enjoy Your Bot!!💝</h2>
 
 
-## Status Of Bot 
+## Status 🦩Of Bot 
 
 <p align="left">
     <a href="https://github.com/LEGEND-OS/LEGENDBOT/network/members"><img src="https://img.shields.io/github/forks/LEGEND-OS/LEGENDBOT?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/LEGEND-OS/LEGENDBOT/stargazers"><img src="https://img.shields.io/github/stars/LEGEND-OS/LEGENDBOT?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/LEGEND-OS/LEGENDBOT"></a><p align="left"><a href="https://github.com/LEGEND-OS/LEGENDBOT?"></a>
 
 
-<h2>The owner would not be responsible for any kind of bans due to the bot.
+<h2>The owner would not be🐢 responsible for any kind of bans due to the bot.
 
 FORK AT YOUR OWN RISK</h2>
 
 
 
 
-<h2 align="center">⚙️🦁 D E P L O Y I N G 🦁⚙️</h2>
+<h2 align="center">⚙️🐲 D🐉 E🐉 P 🐉L 🐉O 🐉Y 🐲⚙️</h2>
 
 
 <h3> DEPLOY TO HEROKU </h3>
