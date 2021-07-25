@@ -1,6 +1,6 @@
 {
-  "name": "SHAIL🐲",
-  "description": "τнє ϐєѕτ υѕєяϐοτ мα∂є by SHAIL🐲 . Made with Love And By Python Language With Hardwork... ❤ ",
+  "name": "DRAGON BOT",
+  "description": "τнє ϐєѕτ υѕєяϐοτ мα∂є by SHAIL. Made with Love And By Python Language With Hardwork... ❤ ",
   "logo": "https://telegra.ph/file/9144a914bce520f5bdf74.jpg",
     "keywords": [
     "telegram",
@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/LEGEND-OS/LEGENDBOT/",
-  "website": "https://github.com/LEGEND-OS/LEGENDBOT/",
-  "success_url": "https://t.me/LEGENDUSERBOT",
+  
+  
+  
   "env": {
     "ENV": {
       "description": "Set this to ANYTHING will enable heroku.",
@@ -23,13 +23,13 @@
       "required": false
     },
     "ALIVE_NAME": {
-      "description": "Fill your Full name. By default it is LEGEND User",
-      "value": "ℓεɠεɳ∂ɓσƭ",
+      "description": "Fill your Full name. By default it is DRAGON Fan User",
+      "value": "friend of dragon",
       "required": false
     },
     "ALIVE_MSG": {
       "description": "Set Custom Alive Message When entering .alive Or .legend  Command.",
-      "value": "ℓεɠεɳ∂ɓσƭ ιѕ αℓινє",
+      "value": "THE LITTLE DRAGON  ιѕ αℓινє",
       "required": false
     },
     "ALIVE_PIC": {
