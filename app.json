@@ -1,6 +1,6 @@
 {
   "name": "DRAGON BOT",
-  "description": "τнє ϐєѕτ υѕєяϐοτ мα∂є by SHAIL. Made with Love And By Python Language With Hardwork... ❤ ",
+  "description": "τнє ϐєѕτ υѕєяϐοτ мα∂є by SHAIL. Made with Love And By Python Language With Hardwork...🐲 ",
   "logo": "https://telegra.ph/file/9144a914bce520f5bdf74.jpg",
     "keywords": [
     "telegram",
@@ -164,7 +164,7 @@
     },
     "EMOJI_IN_HELP": {
       "description": "Set The emojies You Want to Add In Help Command!!",
-      "value": "⚜️",
+      "value": "🐍",
       "required": false
     }, 
     "TZ": {
