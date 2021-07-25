@@ -77,7 +77,7 @@ FORK AT YOUR OWN RISK</h2>
 
 ### StringSession
 
-[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/THEdarkHUNTERshail/-dragon#main.py) 
+[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@HUNTERSHAIL/THE-LITTLE-DRAGON-OF-SHAIL-1#main.py) 
 
     - Click On Generate String
     - Then Click On Green Run Button.
@@ -85,56 +85,16 @@ FORK AT YOUR OWN RISK</h2>
     - String will be saved in your Saved Message.
 
 
-<h1 align="center">TO HOST LEGEND LOCALLY OR ON ANY OTHER VPS CLICK BELOW</h1>
 
 
-<h3 align="center"> THIS BOT IS ADE BY SHAIL</h3>
 
-# Do U Face Any Problem Contact me Through Telegram Or Whatsapp
-
-[![Whatsapp](https://img.shields.io/badge/Whatsapp%20Me-informational)](+12565003534)
+<h3 align="center"> THIS BOT IS ADE BY 🐲SHAIL with lob</h3>
 
 
-<a href="https://t.me/joinchat/Legend_Mr_Hacker"><img src="https://img.shields.io/badge/OWNER%20ME-red.svg?style=for-the-badge&logo=Telegram"></a>
-
-<a href="https://t.me/joinchat/Legend_Mr_Hacker"><img src="https://img.shields.io/badge/CREATOR%20ME-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<h4 align="center"> THIS  IS A 🐲LITTLE DRAGON 🐍OF 🔥Mr. SHAIL PLEASE DO ENJOY 🤩YOUR BOT </h4>
 
 
-[![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/joinchat/Legend_Mr_Hacker)
 
 
-<details>
 
-  <summary> • LICENSE • </summary>
 
-![](https://www.gnu.org/graphics/gplv3-or-later.png)
-
-LEGEND-OS
-
-Poject [LEGENDBOT](https://github.com/LEGEND-OS/LEGENDBOT) is free software: you can redistribute it and/or modify
-
-it under the terms of the GNU General Public License as published by
-
-the Free Software Foundation, either version 3 of the License, or
-
-(at your option) any later version.
-
-This program is distributed in the hope that it will be useful,
-
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-
-GNU General Public License for more details.
-
-You should have received a copy of the GNU General Public License
-
-along with this program. If not, see <https://www.gnu.org/licenses/>.
-
-</details>
-
-<details>
-
-  
-  
-• [LEGEND](https://github.com/LEGEND-OS)
