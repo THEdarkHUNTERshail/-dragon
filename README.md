@@ -1,8 +1,8 @@
 <h1 align="center">
-<b>    DRAGON🐲  𝐔𝐒𝐄𝐑𝐁𝐎𝐓 🇮🇳</b>
+<b>   🐲 DRAGON🐲  𝐔𝐒𝐄𝐑𝐁𝐎𝐓 🇮🇳</b>
 </h1>
 
-[![ THE LITTLE DRAGON🐲 BOT](https://telegra.ph/file/000b419ff41208fe63e2e.jpg)](https://github.com/LEGEND-OS/LEGENDUSERBOT)
+[![ THE 🐲LITTLE DRAGON🐲 BOT](https://telegra.ph/file/000b419ff41208fe63e2e.jpg)](https://github.com/LEGEND-OS/LEGENDUSERBOT)
 
 
 <p align="center">
@@ -35,7 +35,7 @@
 
 <h2>THIS IS IS A 🦖USERBOT OF TELEGRAM. MADE BY SHAIL🐲   By Hardwork.
 
-### This is the one and only official 🐲DRAGONBOT🐲 Userbot made by Legend_Mr_Hacker. Don't forget to star this repo if you liked it. Enjoy Your Bot!!💝</h2>
+### This is the one and only official 🐲DRAGONBOT🐲 Userbot made by 🕷SHAIL🕷. Don't forget to star this repo if you liked it. Enjoy Your Bot!!💝</h2>
 
 
 ## Status 🦩Of Bot 
